@@ -1,0 +1,96 @@
+redsocks_day1
+
+    Settings
+    Add-ons Manager
+    arecord: Linux Command to List all Soundcards and Digital Audio Devices - nixCraft
+    Install Realtek Audio drivers in Ubuntu 20.04 (Intel Nuc nuc10i7fnh) - Ask Ubuntu
+    TheAssassin/AppImageLauncher: Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+    Install VLC on Linux | Snap Store
+    bash-scripts/sshtunnel_lb_proxy.sh at ad9b32523b4336f0d18e7637c6587060687aa003 · windvalley/bash-scripts
+    semigodking/redsocks: transparent redirector of any TCP/UDP connection to proxy
+    pedromreis/libevent2: Copy of libevent2
+    bufferevent_openssl.c:228:19: error: storage size of 'methods_bufferevent' isn't known 228 | static BIO_METHOD methods_bufferevent = { | ^~~~~~~~~~~~~~~~~~~ make[2]: *** [Makefile:800: bufferevent_openssl.lo] Error 1 - Google Search
+    AUR (en) - redsocks2-git
+    configuration - Redsocks2 config file location - Ask Ubuntu
+    AUR (en) - redsocks
+    redsocks | Kali Linux Tools
+    Proxy tools
+    n1nj4sec/pr0cks: python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target
+    archtorify vs linux-router - compare differences and reviews? | LibHunt
+    Why I stopped releasing EasyOS as an ISO file | Hacker News
+    Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers : linux
+    linux-router/lnxrouter at master · garywill/linux-router
+    iptables Demystified - Port Redirection and Forwarding HTTP Traffic to another machine (part 1) - YouTube
+    Newest posts containing 'redsocks' - Stack Overflow
+    Can VMWare be configured to use a proxy? - Super User
+    linux tips - Przemoc's network
+    redsocks - transparent socks redirector
+    Doggo/src at 838562cd2474e398507204237319bdc6cec725fe · Nate711/Doggo
+    ERC-BPGC/Trotbot: The delivery robot project
+    quadruped-robot-gaits · GitHub Topics
+    chvmp/champ: 𓃡 Quadruped Robot based on MIT Cheetah I
+    nicrusso7/rex-gym: OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
+    grassjelly/cheetah-algorithms: MIT Cheetah I algorithms in Jupyter Notebook
+    BitsRobocon/Quadruped-DIPLOID: Developing a four-legged Quadruped robot 'DIPLOID' with stable walking by reinforced learning on bezier gait and terrain awareness using SLAM technique as a part of long-term project undertaken by Team Robocon. (2019-present)
+    SeunghyunLim/Tortoise_robot_simulation: Tortoise-like quadropped robot simulation using legtool
+    jpieper/legtool: Library and utilities for operating legged robots
+    1.2. Installing SCons
+    curl: (56) Received HTTP code 403 from proxy after CONNECT - Google Search
+    Curl with proxy username and password - Google Search
+    How do I use Curl with a proxy?
+    Use a proxy on curl/wget commands - Today I Learned
+    How To Use curl with Proxy? – LinuxTect
+    How to use curl command with proxy username/password on Linux/ Unix - nixCraft
+    rest - curl through authenticated proxy and authenticated http resource - Stack Overflow
+    curl ootw: -U for proxy credentials | daniel.haxx.se
+    Linux_Downloads – Oracle VM VirtualBox
+    Curl Set User Agent Command on Linux or Unix - nixCraft
+    What is my user agent? - WhatIsMyBrowser.com
+    Authentication - Everything curl
+    How to use the curl command in Linux - Installmd
+    linux - performing HTTP requests with cURL (using PROXY) - Stack Overflow
+    SOCKS - Wikipedia
+    Gazebo : Tutorial : Ubuntu
+    https://raw.githubusercontent.com/ignition-tooling/release-tools/master/one-line-installations/gazebo.sh
+    curl proxy-digest takes too long - Google Search
+    (1) New Message
+    curl ootw: -U for proxy credentials | daniel.haxx.se
+    Anki - powerful, intelligent flashcards
+    Proxy tunneling failed: Proxy Authentication RequiredUnable to establish SSL connection - Ask Ubuntu
+    authentication - Can't complete dropbox installation from behind proxy - Ask Ubuntu
+    pip list - pip documentation v21.3.1
+    dsfs - Google Search
+    How to set the environmental variable LD_LIBRARY_PATH in linux - Stack Overflow
+    wget cannot do digest authentication against proxy server (only http server auth digest) - githubmemory
+    ekalinin/pip-bash-completion: bash autocompletion for pip
+    curl vs Wget
+    aria2
+    axel-download-accelerator/axel: Lightweight CLI download accelerator
+    Code-Hex/pget: The fastest file download client
+    curl - Comparison Table
+    Ubuntu Manpage: Wget2 - a recursive metalink/file/website downloader.
+    aria2/aria2: aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+    tsocks(8) - Linux man page
+    linux - How do you redirect wget response to standard out? - Super User
+    ProxyChains Tutorial
+    convert wget calls to curl - Google Search
+    syl20bnr/spacemacs: A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
+    https://www.spacemacs.org/
+    kovidgoyal/calibre: The official source code repository for the calibre ebook manager
+    version control - Getting Git to work with a proxy server - fails with "Request timed out" - Stack Overflow
+    package repositories - Cannot access ELPA from Emacs behind a corporate proxy (Mac) - Emacs Stack Exchange
+    Manage packages via proxy with authentication with Emacs(Others-Community)
+    Use ELPA (Emacs) behind a proxy requiring authentication - Stack Overflow
+    Setting up spacemacs for development — Part 2 (proxy and git) | by Ramz | Medium
+    Package unavailable. Is the package name misspelled? · Issue #13126 · syl20bnr/spacemacs
+    EmacsWiki: Erc Proxy
+    ERROR: The requested URL could not be retrieved
+    redsocks - githubmemory
+    1593092444.851314 err base.c:396 base_init(...) getpwnam(redsocks): Success - githubmemory
+    Redsocks doesn't redirect - githubmemory
+    Redsocks not work and shows warning - githubmemory
+    Not working on https proxy - githubmemory
+    semigodking/redsocks: transparent redirector of any TCP/UDP connection to proxy
+    ubuntu-s-1vcpu-1gb-blr1-01 - DigitalOcean
+    Download Windows 11
+    release_notes_license_terms_8_1_15.pdf
